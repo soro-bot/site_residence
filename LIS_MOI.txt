@@ -1,3 +1,5 @@
 Avant de lancer le projet:
-    Il faut créer une BD dont le nom se trouve dans le fichier connexion-db.php
-    Pour tout information concernant les paramètre de connexion à la BD voir dans le même fichier
+    -Il faut créer une BD dont le nom se trouve dans le fichier connexion-db.php
+    -Une fois cela fais vous pouvez importer le fichier residence.sql dans cette BD afin de la remplir
+    -Pour tout information concernant les paramètre de connexion à la BD voir dans le même fichier
+

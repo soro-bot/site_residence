@@ -1,0 +1,3 @@
+Avant de lancer le projet:
+    Il faut créer une BD dont le nom se trouve dans le fichier connexion-db.php
+    Pour tout information concernant les paramètre de connexion à la BD voir dans le même fichier
